@@ -1,93 +1,13 @@
-"id": "Updated_4_favourites_SimRestoRelevance",
-            "gridElements": {
-              "infoWithStyle": {
-                "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
-                "restaurants": [
-                  {
-                    "info": {
-                      "id": "105391",
-                      "name": "Al Baik Xpress",
-                      "cloudinaryImageId": "gqdlocal4p4bxgsnq0ht",
-                      "locality": "Medical Road",
-                      "areaName": "Medical Road",
-                      "costForTwo": "₹350 for two",
-                      "cuisines": [
-                        "Fast Food",
-                        "Burgers",
-                        "Pizzas",
-                        "Biryani"
-                      ],
-                      "avgRating": 3.9,
-                      "parentId": "465602",
-                      "avgRatingString": "3.9",
-                      "totalRatingsString": "5K+",
-                      "promoted": true,
-                      "adTrackingId": "cid=10320563~p=1~eid=0000018d-60ba-2a83-090b-fc3900d60177~srvts=1706724829827~45995",
-                      "sla": {
-                        "deliveryTime": 38,
-                        "lastMileTravel": 1.7,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "35-40 mins",
-                        "lastMileTravelString": "1.7 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-01-31 23:59:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "aggregatedDiscountInfoV2": {
-                        
-                      },
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          },
-                          "textBased": {
-                            
-                          }
-                        }
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      
-                    },
-                    "cta": {
-                      "link": "swiggy://menu?restaurant_id=105391",
-                      "text": "RESTAURANT_MENU",
-                      "type": "DEEPLINK"
-                    }
-                  },
+{
+  "posts": [
+    { "id": "1", "title": "a title", "views": 100 },
+    { "id": "2", "title": "another title", "views": 200 }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
